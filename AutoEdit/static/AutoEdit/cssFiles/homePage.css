@@ -1,0 +1,36 @@
+body {
+    background-color: #F3E2D1;
+}
+/* formating for the title div*/
+.homePageTitle {
+    display: block;
+    font-size: 220%;
+    font-family: "Courier New";
+    text-align: center;
+    padding: -50px;
+    margin: auto;
+    margin-top: 50px;
+    border: 10px dashed coral;
+    border-radius: 25px;
+    max-width: 1000px;
+    color: #1025B5;
+}
+/* Edit Now Button block formatting */
+.startEditingButton {
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+}
+/* formating for the interior of the edit now button itself */
+.startButton {
+    background-color: darkgreen;
+    cursor: pointer;
+    color: black;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 300%;
+    font-family: "Courier New";
+    margin-top: 125px;
+}
